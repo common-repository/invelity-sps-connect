@@ -1,0 +1,6 @@
+.invelity-plugins_page_invelity-sps-connect .wrap.invelity-plugins-namespace form input[type="text"],
+.invelity-plugins_page_invelity-sps-connect .wrap.invelity-plugins-namespace form input[type="number"],
+.invelity-plugins_page_invelity-sps-connect .wrap.invelity-plugins-namespace form textarea,
+.invelity-plugins_page_invelity-sps-connect .wrap.invelity-plugins-namespace form select{
+    min-width:200px;
+}
